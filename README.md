@@ -1,37 +1,60 @@
-# Hi, I'm Noor Rauf 👋
+<div align="center">
 
-## About Me
+  <h1>Hi there, I'm Noor Rauf 👋</h1>
+  <p><strong>BS Data Science Student @ UET Lahore | Data & Software Enthusiast</strong></p>
 
-I am a BS Data Science student at UET Lahore with an interest in Data Science, Software Development, and Technology.
+  <p>
+    <a href="https://github.com/NoorRauf005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
-I enjoy learning programming, working with data, building software projects, and improving my technical skills through practical projects.
+</div>
 
-## Skills & Technologies
+---
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, C, C++, C# |
-| Data & Database | SQL, Power BI |
-| Web | HTML, CSS |
-| Tools | VS Code, Git, GitHub |
-| Data Science | Data Analysis, Data Visualization, Basic Machine Learning |
+### 📌 About Me
 
-## Featured Projects
+I am a **BS Data Science student at the University of Engineering and Technology (UET), Lahore**, with a passion for **Data Science**, **Software Engineering**, and **Data Analysis**. 
 
-### 🇵🇰 Pakistan Population Analysis
-A Python-based project for analyzing Pakistan's population data from 1960–2022. It provides different analysis options and visualizes population trends using a console-based interface.
+* 🎓 Currently pursuing my bachelor's degree in Data Science.
+* 💡 Interested in data modeling, interactive dashboards, and full-stack software development.
+* 🚀 Passionate about turning complex datasets into actionable insights and building practical technical projects.
+* 📫 How to reach me: **your.email@example.com**
 
-### 💻 CV Website
-A personal CV and portfolio website built using HTML and CSS.
+---
 
-## Education
+### 🛠️ Skills & Technologies
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Programming Languages** | `Python` `C` `C++` `C#` |
+| **Data & Databases** | `SQL` `Power BI` `Data Analysis` `Data Visualization` `Basic ML` |
+| **Web Development** | `HTML5` `CSS3` |
+| **Tools & Platforms** | `Git` `GitHub` `VS Code` |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🇵🇰 [Pakistan Population Analysis](https://github.com/NoorRauf005)
+* **Tech Stack:** Python, Data Analysis
+* A Python-based project for analyzing Pakistan's demographic and population trends from 1960 to 2022.
+* Features interactive console-based analysis and clear data trends visualization.
+
+#### 💻 [Personal CV & Portfolio Website](https://github.com/NoorRauf005)
+* **Tech Stack:** HTML, CSS
+* A responsive portfolio site highlighting academic background, technical skills, and project showcases.
+
+---
+
+### 🎓 Education
 
 **BS Data Science**  
-University of Engineering and Technology (UET), Lahore
+*University of Engineering and Technology (UET), Lahore*
 
-## Contact
+---
 
-- 📧 Email: [raufnoor005@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/
-noor-rauf-b38a7838b]
-- 🐙 GitHub: [NoorRauf005](https://github.com/NoorRauf005)
+<div align="center">
+  <sub>Designed by <a href="https://github.com/NoorRauf005">Noor Rauf</a></sub>
+</div>
